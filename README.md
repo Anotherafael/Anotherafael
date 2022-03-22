@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **personal and university projects.**
 
-- 🌱 I’m currently learning **How to be a better dev**
+- 🌱 I’m currently learning **how to be a better dev**
 
 - ⚡ Fun fact **I hate working with Java, specifically JSF.**
 
