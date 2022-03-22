@@ -11,14 +11,14 @@
 
 - 🌱 I’m currently learning **How to be a better dev**
 
+- ⚡ Fun fact **I hate working with Java, specifically JSF.**
+
 <br/>
 
 ## How to contact me 📝
 
 <a href="https://www.linkedin.com/in/rafael-freitas-484639196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:rafael.afmendonca1994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-- ⚡ Fun fact **I hate working with Java, specifically JSF.**
 
 <!-- - 📄 **See my** <a href="https://drive.google.com/file/d/1SFU1fAD3iqwfug6KQPta31-KXAfk1nKQ/view?usp=sharing" alt="Curriculum" target="_blank">curriculum</a> **for more information.** -->
 
