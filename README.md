@@ -6,6 +6,12 @@
 <img width="333" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anotherafael&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Anotherafael" />
 
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 - 🔭 I’m currently working on **personal and university projects.**
 
