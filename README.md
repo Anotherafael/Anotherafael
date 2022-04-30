@@ -5,8 +5,6 @@
 
 <img width="333" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anotherafael&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Anotherafael" />
 
-<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=Anotherafael&theme=tokyonight&show_icons=true&locale=en" style="heght:500px;" alt="Anotherafael" />
-
 - 🔭 I’m currently working on **personal and university projects.**
 
 - 🌱 I’m currently learning **how to be a better dev**
