@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannifranco1&label=Profile%20views&color=0e75b6&style=flat" alt="Anotherafael" /> </p>
 
-<img width="333" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anotherafael&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Anotherafael" />
-
 <br/>
 <br/>
 <br/>
