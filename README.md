@@ -4,12 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannifranco1&label=Profile%20views&color=0e75b6&style=flat" alt="Anotherafael" /> </p>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 - 🔭 I’m currently working on **personal and university projects.**
 
