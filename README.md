@@ -3,12 +3,10 @@
 
 - 🎓 Bachelor's in Information Systems from UNITINS, Brazil. 
 (<i>Bacharel em Sistemas de Informção pela UNITINS.</i>)
-<br/>
-- 💡 I am a data science enthusiast to solve real-world problems.
+- 💡 I am a data science enthusiast to solve real-world problems. 
 (<i>Entusiasta por ciência de dados para solucionar problemas.</i>)
-<br/>
-- ❤️ Passionate about sports and music.
-- (<i>Apaixonado por esportes e música.</i>)
+- ❤️ Passionate about sports and music. 
+(<i>Apaixonado por esportes e música.</i>)
 
 ## How to contact me 
 
