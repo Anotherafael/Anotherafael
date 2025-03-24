@@ -1,5 +1,5 @@
 
-# ![Banner](./assets/github_banner.png)
+![Banner](./assets/github_banner.png)
 
 ## 👋 Hi
 
@@ -26,8 +26,6 @@ No meu tempo livre, gosto de acompanhar esportes e e-sports, futebol e Dota 2 s�
 - ⚽ No meu auge esportivo (8~12 anos), ganhei duas edições de olímipiadas escolares no futsal (MVP da duas) e uma de tênis de mesa.
 - 💡 Comecei a programar em **2019** e, desde então, venho me desafiando e aprendendo coisas novas.
 - 🤗 Sou um Open Access Advocate (essencialmente, defendo que informação e conhecimento devem ser públicos) e estou sempre disposto(a) a ajudar.
-
----
 
 ## Contatos
 
